@@ -7,7 +7,7 @@ function convertToBool(text, fault = 'true') {
 
 //--------------------------Mr Gmax---------------------------------------
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "GMAX-MD~qFhlwaBS#5RuIeZ0r4quBSQL9wMzg6rztRgi3irtmSjuXx06kSWQ",
+SESSION_ID: process.env.SESSION_ID || "GMAX-MD~XVp1iKSa#A8KzUAoAVixozG7Tgu9fLlAhuDYRnby6y_y7DvpsAgg",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", //TRUE OR FALSE
 MODE: process.env.MODE || "public",  // PRIVATE OR PUBLIC
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
